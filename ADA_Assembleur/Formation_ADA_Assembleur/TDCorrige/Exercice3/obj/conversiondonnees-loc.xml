@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project>
+    <vfs_file />
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>P:\02-SII\03-Formation\Formation ADA\TDCorrige\Exercice1\ADA\TDCorrige\Exercice1\helloword.gpr</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>P:\02-SII\03-Formation\Formation ADA\TDCorrige\Exercice1\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>P:\02-SII\03-Formation\Formation ADA\TDCorrige\Exercice2\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>P:\02-SII\03-Formation\Formation ADA\TDCorrige\Exercice3\src\main.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>

@@ -1,0 +1,27 @@
+
+
+    La librairie à pour bur la Création d'une banque avec une liste d'utilisateurs et de comptes bancaires.
+        La banque doit contenir des pointeurs vers des tableaux d'utilisateurs et de comptes bancaires, ainsi que des compteurs du nombre d'utilisateurs et de comptes.
+
+Il doit être possible de :
+    - Transfert d'argent d'un compte à un autre à partir du nom des protaconistes
+        La fonction de transfert doit vérifier si les comptes existent, si le solde du compte émetteur est suffisant pour effectuer le transfert et si le transfert est possible sans que le compte ne tombe en négatif.
+
+
+    - Ajout d'un utilisateur à la banque à partir de son nom.
+        La fonction d'ajout d'utilisateur doit utiliser la fonction create_user pour créer un nouvel utilisateur avec un ID unique et un nom fourni unique. Si la création réussit, la fonction doit ajouter le nouvel utilisateur à la liste des utilisateurs de la banque et incrémente le compteur num_users de la banque. Si la création de l'utilisateur échoue, la fonction doit renvoyer une erreur indiquant que la limite du nombre d'utilisateurs est atteinte par sa valeur de retour.
+
+
+   - Ajout d'un compte pour un utilisateur à partir de son nom et du solde initial.
+        La fonction d'ajout de compte doit utiliser la fonction get_user pour trouver l'utilisateur correspondant au nom fourni. Si l'utilisateur est trouvé, la fonction doit utiliser la fonction create_account pour créer de son unique compte avec l'ID de l'utilisateur et le solde initial fourni. Si la création réussit, la fonction doit ajouter le nouveau compte à la liste des comptes de la banque et incrémente le compteur num_accounts de la banque. Si la création de compte échoue, la fonction doit renvoyer une erreur indiquant que la limite du nombre de comptes est atteinte.
+
+   - Création d'un compte avec un solde initial.
+        La fonction create_account doit créer un nouveau compte avec un ID unique et le solde initial fourni. Si la création réussit, la fonction doit renvoyer true. Si la création échoue parce que la limite du nombre de comptes est atteinte, la fonction doit renvoyer false.
+    
+- Retrait d'argent d'un compte.
+        La fonction de retrait doit vérifier si le montant à retirer est inférieur ou égal au solde actuel du compte. Si le montant à retirer est supérieur au solde actuel, le retrait sera refusé et un message d'erreur sera affiché avec une valeur de retour appropriée
+
+- Dépôt d'argent dans un compte.
+        La fonction de dépôt doit ajouter le montant déposé au solde actuel du compte.
+
+En plus de cela, le client a demandé que les utilisateurs ne puissent pas avoir de dettes. Bon courage. 

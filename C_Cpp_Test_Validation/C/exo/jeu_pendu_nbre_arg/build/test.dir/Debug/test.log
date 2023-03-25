@@ -1,0 +1,4 @@
+﻿  test.c
+C:\Users\Djibril BAH\Desktop\nombre_arg\test.c(13,16): warning C4013: 'nbAleatoire' non défini(e) ; extern retournant int pris par défaut
+C:\Users\Djibril BAH\Desktop\nombre_arg\test.c(26,12): warning C4013: 'rand' non défini(e) ; extern retournant int pris par défaut
+  test.vcxproj -> C:\Users\Djibril BAH\Desktop\nombre_arg\build\Debug\test.exe

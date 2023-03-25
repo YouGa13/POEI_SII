@@ -1,0 +1,5 @@
+if(EXISTS "C:/Users/Djibril BAH/Desktop/SaltInBank/tmp/build/test/UserTest[1]_tests.cmake")
+  include("C:/Users/Djibril BAH/Desktop/SaltInBank/tmp/build/test/UserTest[1]_tests.cmake")
+else()
+  add_test(UserTest_NOT_BUILT UserTest_NOT_BUILT)
+endif()

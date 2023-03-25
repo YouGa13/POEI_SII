@@ -4,4 +4,4 @@ project(Project_LangageC)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(test jeu_pendu.c)
+add_executable(test comparaison_par_struct.c)

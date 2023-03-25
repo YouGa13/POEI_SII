@@ -1,0 +1,3 @@
+﻿  console.c
+C:\Users\Djibril BAH\Desktop\projet_24_02_2023\console.c(4,5): warning C4013: 'printf' non défini(e) ; extern retournant int pris par défaut
+  console.vcxproj -> C:\Users\Djibril BAH\Desktop\projet_24_02_2023\build\Debug\console.lib

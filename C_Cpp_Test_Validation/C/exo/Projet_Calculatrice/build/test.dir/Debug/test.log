@@ -1,0 +1,37 @@
+﻿  main.c
+C:\Users\Djibril BAH\Desktop\Projet_Calculatrice\main.c(8,19): warning C4133: 'fonction' : types incompatibles - de 'char **' à 'float **'
+  io_console.c
+C:\Users\Djibril BAH\Desktop\Projet_Calculatrice\io_console.c(6,9): error C2051: l'expression associée à case n'est pas une constante
+C:\Users\Djibril BAH\Desktop\Projet_Calculatrice\io_console.c(9,9): error C2051: l'expression associée à case n'est pas une constante
+  arithmetic.c
+C:\Users\Djibril BAH\Desktop\Projet_Calculatrice\arithmetic.c(5,17): warning C4028: paramètre formel 1 différent de la déclaration
+C:\Users\Djibril BAH\Desktop\Projet_Calculatrice\arithmetic.c(5,23): error C2055: liste de paramètres formels attendue, non une liste de types
+C:\Users\Djibril BAH\Desktop\Projet_Calculatrice\arithmetic.c(6,41): error C2065: 'tabArguments' : identificateur non déclaré
+C:\Users\Djibril BAH\Desktop\Projet_Calculatrice\arithmetic.c(7,25): error C2065: 'tabArguments' : identificateur non déclaré
+C:\Users\Djibril BAH\Desktop\Projet_Calculatrice\arithmetic.c(7,35): error C2109: un indice requiert un type tableau ou pointeur
+C:\Users\Djibril BAH\Desktop\Projet_Calculatrice\arithmetic.c(10,52): error C2065: 'tabArguments' : identificateur non déclaré
+C:\Users\Djibril BAH\Desktop\Projet_Calculatrice\arithmetic.c(11,45): error C2065: 'tabArguments' : identificateur non déclaré
+C:\Users\Djibril BAH\Desktop\Projet_Calculatrice\arithmetic.c(11,47): error C2109: un indice requiert un type tableau ou pointeur
+C:\Users\Djibril BAH\Desktop\Projet_Calculatrice\arithmetic.c(12,30): warning C4244: 'fonction' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Djibril BAH\Desktop\Projet_Calculatrice\arithmetic.c(12,49): error C2065: 'tabArguments' : identificateur non déclaré
+C:\Users\Djibril BAH\Desktop\Projet_Calculatrice\arithmetic.c(12,59): error C2109: un indice requiert un type tableau ou pointeur
+C:\Users\Djibril BAH\Desktop\Projet_Calculatrice\arithmetic.c(12,17): error C2198: 'print_result' : pas assez d'arguments pour un appel
+C:\Users\Djibril BAH\Desktop\Projet_Calculatrice\arithmetic.c(16,52): error C2065: 'tabArguments' : identificateur non déclaré
+C:\Users\Djibril BAH\Desktop\Projet_Calculatrice\arithmetic.c(17,63): error C2065: 'tabArguments' : identificateur non déclaré
+C:\Users\Djibril BAH\Desktop\Projet_Calculatrice\arithmetic.c(17,65): error C2109: un indice requiert un type tableau ou pointeur
+C:\Users\Djibril BAH\Desktop\Projet_Calculatrice\arithmetic.c(19,26): warning C4244: 'fonction' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Djibril BAH\Desktop\Projet_Calculatrice\arithmetic.c(19,45): error C2065: 'tabArguments' : identificateur non déclaré
+C:\Users\Djibril BAH\Desktop\Projet_Calculatrice\arithmetic.c(19,55): error C2109: un indice requiert un type tableau ou pointeur
+C:\Users\Djibril BAH\Desktop\Projet_Calculatrice\arithmetic.c(19,13): error C2198: 'print_result' : pas assez d'arguments pour un appel
+C:\Users\Djibril BAH\Desktop\Projet_Calculatrice\arithmetic.c(22,17): error C2374: 'somme' : redéfinition ; initialisation multiple
+C:\Users\Djibril BAH\Desktop\Projet_Calculatrice\arithmetic.c(9,17): message : voir la déclaration de 'somme'
+C:\Users\Djibril BAH\Desktop\Projet_Calculatrice\arithmetic.c(23,52): error C2065: 'tabArguments' : identificateur non déclaré
+C:\Users\Djibril BAH\Desktop\Projet_Calculatrice\arithmetic.c(24,45): error C2065: 'tabArguments' : identificateur non déclaré
+C:\Users\Djibril BAH\Desktop\Projet_Calculatrice\arithmetic.c(24,47): error C2109: un indice requiert un type tableau ou pointeur
+C:\Users\Djibril BAH\Desktop\Projet_Calculatrice\arithmetic.c(29,17): error C2374: 'somme' : redéfinition ; initialisation multiple
+C:\Users\Djibril BAH\Desktop\Projet_Calculatrice\arithmetic.c(9,17): message : voir la déclaration de 'somme'
+C:\Users\Djibril BAH\Desktop\Projet_Calculatrice\arithmetic.c(30,52): error C2065: 'tabArguments' : identificateur non déclaré
+C:\Users\Djibril BAH\Desktop\Projet_Calculatrice\arithmetic.c(31,45): error C2065: 'tabArguments' : identificateur non déclaré
+C:\Users\Djibril BAH\Desktop\Projet_Calculatrice\arithmetic.c(31,47): error C2109: un indice requiert un type tableau ou pointeur
+C:\Users\Djibril BAH\Desktop\Projet_Calculatrice\arithmetic.c(33,20): warning C4477: 'printf' : la chaîne de format '%lf' nécessite un argument de type 'double', mais l'argument variadique 1 est de type 'int'
+  Génération de code en cours...

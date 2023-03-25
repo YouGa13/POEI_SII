@@ -1,0 +1,10 @@
+^C:\USERS\DJIBRIL BAH\DESKTOP\SALTINBANK\TMP\BUILD\_DEPS\GOOGLETEST-SRC\GOOGLEMOCK\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/Djibril BAH/Desktop/SaltInBank/tmp" "-BC:/Users/Djibril BAH/Desktop/SaltInBank/tmp/build" --check-stamp-file "C:/Users/Djibril BAH/Desktop/SaltInBank/tmp/build/_deps/googletest-build/googlemock/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

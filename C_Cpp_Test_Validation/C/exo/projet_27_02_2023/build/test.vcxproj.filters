@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Djibril BAH\Desktop\projet_27_02_2023\main.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Djibril BAH\Desktop\projet_27_02_2023\modifyX.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Djibril BAH\Desktop\projet_27_02_2023\modifyY.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Djibril BAH\Desktop\projet_27_02_2023\modify.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Djibril BAH\Desktop\projet_27_02_2023\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{2BB34B8C-2454-3740-B285-1B499B47759A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{870C2F3E-069C-37DD-BCEE-CE5D56EC5447}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

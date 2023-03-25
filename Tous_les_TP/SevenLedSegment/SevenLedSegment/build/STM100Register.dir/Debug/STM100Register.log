@@ -1,0 +1,7 @@
+﻿  STMF100RegisterConfiguration.c
+C:\Users\Djibril BAH\Desktop\SevenLedSegment\SevenLedSegment\STMF100RegisterConfiguration.c(20,20): warning C4047: 'return' : les niveaux d'indirection de 'uint8_t' et de 'void *' sont différents
+C:\Users\Djibril BAH\Desktop\SevenLedSegment\SevenLedSegment\STMF100RegisterConfiguration.c(43,15): warning C4047: 'initialisation' : les niveaux d'indirection de 'uint32_t *' et de 'uint32_t' sont différents
+C:\Users\Djibril BAH\Desktop\SevenLedSegment\SevenLedSegment\STMF100RegisterConfiguration.c(51,15): warning C4047: 'initialisation' : les niveaux d'indirection de 'uint32_t *' et de 'uint32_t' sont différents
+C:\Users\Djibril BAH\Desktop\SevenLedSegment\SevenLedSegment\STMF100RegisterConfiguration.c(63,15): warning C4047: 'initialisation' : les niveaux d'indirection de 'uint32_t *' et de 'uint32_t' sont différents
+C:\Users\Djibril BAH\Desktop\SevenLedSegment\SevenLedSegment\STMF100RegisterConfiguration.c(74,15): warning C4047: 'initialisation' : les niveaux d'indirection de 'uint32_t *' et de 'uint32_t' sont différents
+  STM100Register.vcxproj -> C:\Users\Djibril BAH\Desktop\SevenLedSegment\SevenLedSegment\build\Debug\STM100Register.lib

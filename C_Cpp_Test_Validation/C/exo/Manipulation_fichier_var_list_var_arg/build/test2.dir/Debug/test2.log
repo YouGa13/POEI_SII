@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\Djibril BAH\Desktop\projet_24_02_2023\main.c(14,24): warning C4047: 'fonction' : les niveaux d'indirection de 'long (__cdecl *)()' et de 'long' sont différents
+C:\Users\Djibril BAH\Desktop\projet_24_02_2023\main.c(14,18): warning C4024: 'print_result' : types différents pour le paramètre formel et réel 1
+C:\Users\Djibril BAH\Desktop\projet_24_02_2023\main.c(12,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  test2.vcxproj -> C:\Users\Djibril BAH\Desktop\projet_24_02_2023\build\Debug\test2.exe

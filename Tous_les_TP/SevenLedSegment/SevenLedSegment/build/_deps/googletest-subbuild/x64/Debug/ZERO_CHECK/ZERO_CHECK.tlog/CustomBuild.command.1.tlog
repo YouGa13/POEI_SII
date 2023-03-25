@@ -1,0 +1,10 @@
+^C:\USERS\DJIBRIL BAH\DESKTOP\SEVENLEDSEGMENT\SEVENLEDSEGMENT\BUILD\_DEPS\GOOGLETEST-SUBBUILD\CMAKEFILES\314F243224D6FD3BC2FD3E5CD4A4E531\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/Djibril BAH/Desktop/SevenLedSegment/SevenLedSegment/build/_deps/googletest-subbuild" "-BC:/Users/Djibril BAH/Desktop/SevenLedSegment/SevenLedSegment/build/_deps/googletest-subbuild" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/Djibril BAH/Desktop/SevenLedSegment/SevenLedSegment/build/_deps/googletest-subbuild/googletest-populate.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

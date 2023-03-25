@@ -1,0 +1,1 @@
+void operations(float *tabArguments[]);

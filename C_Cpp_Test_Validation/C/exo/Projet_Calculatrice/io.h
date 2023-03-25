@@ -1,0 +1,1 @@
+void print_result(float x, char y);

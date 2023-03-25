@@ -1,0 +1,22 @@
+[MAPPING FILE]
+C:\Users\DJIBRI~1\AppData\Local\Temp\GNAT-TEMP-000003.TMP
+[TOOLCHAIN VERSION]
+ada
+GNAT 2021
+[MAIN BASE NAME]
+mere
+[COMPILER PATH]
+c:\gnat\2021\bin\gcc.exe
+[COMPILER LEADING SWITCHES]
+-c
+-x
+ada
+-gnatA
+[MAIN DEPENDENCY FILE]
+C:\Users\Djibril BAH\Downloads\Formation_ADA_Assembleur\TD\package\obj\mere.ali
+[DEPENDENCY FILES]
+[BINDING OPTIONS]
+gnatbind_prefix=
+[PROJECT FILES]
+C:\Users\Djibril BAH\Downloads\Formation_ADA_Assembleur\TD\package\mapetiteentreprise.gpr
+20230324125142 92bde3c593f474d1f56535c6e2724d6e

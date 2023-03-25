@@ -1,0 +1,54 @@
+V "GNAT Lib v2021"
+M P W=b
+A -gnatA
+A -mtune=generic
+A -march=x86-64
+P ZX
+
+RN
+RV NO_FLOATING_POINT
+RV NO_IMPLICIT_CONDITIONALS
+RV NO_DEFAULT_INITIALIZATION
+RV NO_DYNAMIC_SIZED_OBJECTS
+RV NO_IMPLEMENTATION_PRAGMAS
+RV NO_IMPLICIT_LOOPS
+
+U main%b		main.adb		825fca6f NE OO SU
+
+D main.adb		20230323092340 825fca6f main%b
+D system.ads		20210520051136 2ffa5114 system%s
+G a e
+G c Z b b [main standard 1 11 none]
+X 1 main.adb
+1U11*Main 1b11 36l5 36t9
+2f4 SMIC{float} 16r35
+3E9 VEHICULE 3e76 17r26
+3n22 Voiture{3E9}
+3n31 Moto{3E9}
+3n37 Trottinette{3E9}
+3n50 Velo{3E9}
+3n56 Transport_en_commun{3E9}
+4E9 AVANTAGEVEHICULE 4e59 18r26
+4n30 Professionnelle{4E9}
+4n47 Personnelle{4E9}
+5E9 FONCTION 5e55 12r28
+5n22 Patron{5E9} 20r15
+5n30 Commerciale{5E9} 20r24
+5n43 RH{5E9}
+5n47 Employe{5E9} 12r40 29r24
+6R9 Date 10e14 15r26
+7i7 Jour{integer}
+8i7 Mois{integer}
+9i7 Annee{integer}
+12R9 InfoEmploye 12d22 28e14 29r11
+12e22 Fct{5E9} 19r12
+14a7 Nom{string}
+15r7 DateAnniversaire{6R9}
+16f7 Salaire{float}
+17e7 TypeVehicule{3E9}
+18e7 AvantageVoiture{4E9}
+21f13 Frais{float}
+22b13 ForfaitTel{boolean}
+24f13 TR{float} 33m9
+29r4 jean{12R9} 33m4
+

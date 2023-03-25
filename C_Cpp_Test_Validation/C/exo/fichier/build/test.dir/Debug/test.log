@@ -1,0 +1,5 @@
+﻿  fichier.c
+C:\Users\Djibril BAH\Desktop\fichier\fichier.c(33,15): warning C4013: 'compte_mots' non défini(e) ; extern retournant int pris par défaut
+C:\Users\Djibril BAH\Desktop\fichier\fichier.c(29,18): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Djibril BAH\Desktop\fichier\fichier.c(30,19): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  test.vcxproj -> C:\Users\Djibril BAH\Desktop\fichier\build\Debug\test.exe

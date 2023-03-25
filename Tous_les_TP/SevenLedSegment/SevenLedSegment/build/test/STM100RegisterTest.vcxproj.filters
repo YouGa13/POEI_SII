@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Djibril BAH\Desktop\SevenLedSegment\SevenLedSegment\test\stm100Register_test.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Djibril BAH\Desktop\SevenLedSegment\SevenLedSegment\test\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{E8AFC212-917B-35E7-8151-F6644371A19C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

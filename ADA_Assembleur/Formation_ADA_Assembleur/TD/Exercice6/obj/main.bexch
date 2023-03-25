@@ -1,0 +1,20 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+C:\Users\Djibril BAH\Downloads\Formation_ADA_Assembleur\TD\Exercice6\mapetiteentreprise.gpr
+20230315152522 51d49ba8cb8ff684d96a22da2375ba6a
+[BOUND OBJECT FILES]
+C:\Users\Djibril BAH\Downloads\Formation_ADA_Assembleur\TD\Exercice6\obj\mere.o
+C:\Users\Djibril BAH\Downloads\Formation_ADA_Assembleur\TD\Exercice6\obj\main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-LC:\Users\Djibril BAH\Downloads\Formation_ADA_Assembleur\TD\Exercice6\obj\
+-LC:\Users\Djibril BAH\Downloads\Formation_ADA_Assembleur\TD\Exercice6\obj\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000

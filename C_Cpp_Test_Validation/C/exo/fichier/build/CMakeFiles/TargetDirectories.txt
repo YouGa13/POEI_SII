@@ -1,0 +1,4 @@
+C:/Users/Djibril BAH/Desktop/fichier/build/CMakeFiles/test.dir
+C:/Users/Djibril BAH/Desktop/fichier/build/CMakeFiles/test2.dir
+C:/Users/Djibril BAH/Desktop/fichier/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Djibril BAH/Desktop/fichier/build/CMakeFiles/ZERO_CHECK.dir

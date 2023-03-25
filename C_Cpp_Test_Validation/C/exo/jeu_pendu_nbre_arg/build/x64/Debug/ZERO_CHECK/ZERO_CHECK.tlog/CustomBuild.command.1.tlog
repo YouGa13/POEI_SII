@@ -1,0 +1,10 @@
+^C:\USERS\DJIBRIL BAH\DESKTOP\NOMBRE_ARG\BUILD\CMAKEFILES\874CACBB93F1555F282804BA4086A365\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/Djibril BAH/Desktop/nombre_arg" "-BC:/Users/Djibril BAH/Desktop/nombre_arg/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/Djibril BAH/Desktop/nombre_arg/build/Project_LangageC.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

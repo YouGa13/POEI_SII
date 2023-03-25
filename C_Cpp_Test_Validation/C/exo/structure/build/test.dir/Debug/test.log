@@ -1,0 +1,4 @@
+﻿  struct_exple2.c
+C:\Users\Djibril BAH\Desktop\structure\struct_exple2.c(53,16): warning C4477: 'printf' : la chaîne de format '%s' nécessite un argument de type 'char *', mais l'argument variadique 1 est de type 'pers'
+C:\Users\Djibril BAH\Desktop\structure\struct_exple2.c(77,24): warning C4047: 'return' : les niveaux d'indirection de 'char' et de 'char [30]' sont différents
+  test.vcxproj -> C:\Users\Djibril BAH\Desktop\structure\build\Debug\test.exe

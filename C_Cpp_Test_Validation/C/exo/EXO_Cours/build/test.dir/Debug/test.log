@@ -1,0 +1,9 @@
+﻿  RenderingEngine.c
+C:\Users\Djibril BAH\Desktop\POEI_SII\C_Cpp_Test_Validation\C\exo\EXO_Cours\RenderingEngine.c(9,7): warning C4047: 'initialisation' : les niveaux d'indirection de 'char *' et de 'char (*)[3]' sont différents
+C:\Users\Djibril BAH\Desktop\POEI_SII\C_Cpp_Test_Validation\C\exo\EXO_Cours\RenderingEngine.c(10,7): warning C4047: 'initialisation' : les niveaux d'indirection de 'char *' et de 'char (*)[3]' sont différents
+C:\Users\Djibril BAH\Desktop\POEI_SII\C_Cpp_Test_Validation\C\exo\EXO_Cours\RenderingEngine.c(18,22): warning C4047: 'fonction' : les niveaux d'indirection de 'char *' et de 'char [5][3]' sont différents
+C:\Users\Djibril BAH\Desktop\POEI_SII\C_Cpp_Test_Validation\C\exo\EXO_Cours\RenderingEngine.c(18,16): warning C4024: 'displayData2D' : types différents pour le paramètre formel et réel 1
+C:\Users\Djibril BAH\Desktop\POEI_SII\C_Cpp_Test_Validation\C\exo\EXO_Cours\RenderingEngine.c(20,25): warning C4047: 'fonction' : les niveaux d'indirection de 'char *' et de 'char [5][3]' sont différents
+C:\Users\Djibril BAH\Desktop\POEI_SII\C_Cpp_Test_Validation\C\exo\EXO_Cours\RenderingEngine.c(20,16): warning C4024: 'displayData2D' : types différents pour le paramètre formel et réel 1
+C:\Users\Djibril BAH\Desktop\POEI_SII\C_Cpp_Test_Validation\C\exo\EXO_Cours\RenderingEngine.c(33,21): warning C4047: 'return' : les niveaux d'indirection de 'char *' et de 'char (*)[3]' sont différents
+  test.vcxproj -> C:\Users\Djibril BAH\Desktop\POEI_SII\C_Cpp_Test_Validation\C\exo\EXO_Cours\build\Debug\test.exe

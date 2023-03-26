@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Djibril BAH\Desktop\POEI_SII\C_Cpp_Test_Validation\C\exo\EXO_Cours\RenderingEngine.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Djibril BAH\Desktop\POEI_SII\C_Cpp_Test_Validation\C\exo\EXO_Cours\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{7CECF6A5-6174-320F-B38F-BE6A16BAB3C6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,10 @@
+^C:\USERS\DJIBRIL BAH\DESKTOP\POEI_SII\C_CPP_TEST_VALIDATION\C\EXO\EXO_COURS\BUILD\CMAKEFILES\5CCA64BA136B4BF190AF8BF436FFBB07\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/Djibril BAH/Desktop/POEI_SII/C_Cpp_Test_Validation/C/exo/EXO_Cours" "-BC:/Users/Djibril BAH/Desktop/POEI_SII/C_Cpp_Test_Validation/C/exo/EXO_Cours/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/Djibril BAH/Desktop/POEI_SII/C_Cpp_Test_Validation/C/exo/EXO_Cours/build/Project_LangageC.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

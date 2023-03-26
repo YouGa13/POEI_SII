@@ -1,0 +1,10 @@
+^C:\USERS\DJIBRIL BAH\DESKTOP\POEI_SII\C_CPP_TEST_VALIDATION\C\EXO\EXO_COURS\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/Djibril BAH/Desktop/POEI_SII/C_Cpp_Test_Validation/C/exo/EXO_Cours" "-BC:/Users/Djibril BAH/Desktop/POEI_SII/C_Cpp_Test_Validation/C/exo/EXO_Cours/build" --check-stamp-file "C:/Users/Djibril BAH/Desktop/POEI_SII/C_Cpp_Test_Validation/C/exo/EXO_Cours/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

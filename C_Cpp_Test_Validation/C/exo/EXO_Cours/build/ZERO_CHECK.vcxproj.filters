@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Djibril BAH\Desktop\POEI_SII\C_Cpp_Test_Validation\C\exo\EXO_Cours\build\CMakeFiles\5cca64ba136b4bf190af8bf436ffbb07\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{32DE0D8B-FDB9-3219-A045-59D32FCF687D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
